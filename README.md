@@ -33,25 +33,25 @@ ___
 _Размещение поста._
 ```json
 http://jsonplaceholder.typicode.com/posts?users=11
-    { 
-        "userId: 11,
+    {
+        "userId": 11,
         "id": 101,
         "title": "Создание нового поста",
         "body": "https://vk.com/this_is_alex90"
-    }    
+    },
 ```
 ![Размещение поста](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST(6).png)
 ___
 _Добавление нового фото._
 ```json
 http://jsonplaceholder.typicode.com/photos
-{
-    "albumId: 22,
-    "id": 11,
-    "title": "New photo for my portfolio",
-    "url": "https://via.placeholder.com/643300/92cfgc952",
-    "thumbnailUrl": "https://via.placeholder.com/15550/92c952"
-}    
+    {
+        "albumId": 22,
+        "id": 11,
+        "title": "New photo for my portfolio",
+        "url": "https://via.placeholder.com/643300/92cfgc952",
+        "thumbnailUrl": "https://via.placeholder.com/15550/92c952"
+    },
 ```
 ![Добавление нового фото](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(3).png)
 ___
