@@ -1,6 +1,6 @@
 
 ___
-## Запрсы POST
+## Запросы POST
 
 _Создание нового юзера._
 ![Создание нового юзера](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(4).png)
