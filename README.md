@@ -1,33 +1,33 @@
 
-Скрины по работе с Postman
+___
+## Запрсы POST
 
-Запрсы POST
+_Создание нового юзера._
+![Создание нового юзера](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(4).png)
 
-Создание нового юзера.
-![scrn1](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(4).png)
+_Размещение поста._
+![Размещение поста](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST(6).png)
 
-Размещение поста.
-![scrn2](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST(6).png)
+_Добавление нового фото._
+![Добавление нового фото](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(3).png)
+___
+## Запросы GET.
 
-Добавление нового фото.
-![scrn3](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20POST%20(3).png)
+_Поиск по имени._
+![Поиск по имени](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(1).png)
 
-Запросы GET.
+_Поиск по номеру телефона._
+![Поиск по номеру телефона](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(2).png)
 
-Поиск по имени.
-![scrn4](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(1).png)
+_Поиск коментария по заголовку._
+![Поиск коментария по заголовку](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(3).png)
+___
+## Запросы PATCH.
 
-Поиск по номеру телефона.
-![scrn5](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(2).png)
+_Изменение поста._
+![Изменение поста](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20PATCH.png)
+___
+##Запросы DELETE.
 
-Поиск коментария по заголовку.
-![scrn6](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20GET%20(3).png)
-
-Запросы PATCH.
-
-![scrn7](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20PATCH.png)
-
-Запросы DELETE.
-
-Удаление пользователя.
-![scrn8](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20DELETE%20.png)
+_Удаление пользователя._
+![Удаление пользователя](https://github.com/AlexandrKorablev/Postman/blob/main/Postman%20DELETE%20.png)
